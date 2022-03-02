@@ -34,6 +34,8 @@ ________________________________________________________________________________
 Application of Arduino based Hand Gesture Control of Computer
 
     In this project, we have implemented Arduino based Hand Gesture Control of Your Computer, where few hand gestures made in front of the computer will perform certain tasks in the computer without using mouse or keyboard.
+    
     Such Gesture based Control of Computers is already present and a company called Leap Motion has been implementing such technology in computers.
+    
     This type of hand gesture control of computers can be used for VR (Virtual Reality), AR (Augmented Reality), 3D Design, Reading Sign Language, etc.
 
